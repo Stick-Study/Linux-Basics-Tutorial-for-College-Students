@@ -7,6 +7,7 @@ Windows Subsystem for Linux
 # 基础
 
 ### Ubuntu 安装
+
 使用
 ```
 wsl --list --online
@@ -44,6 +45,7 @@ wsl
 即可访问 Linux 下的文件。
 
 ![](https://github.com/Stick-Study/Linux-Basics-Tutorial-for-College-Students/blob/main/Photos/00-File.png)
+
 # 进阶
 
 ### 更新 WSL
